@@ -1,0 +1,33 @@
+{
+  "name": "awesome-starlight",
+  "version": "0.1.0",
+  "description": "Automatically curated list of awesome Starlight resources",
+  "type": "module",
+  "homepage": "https://github.com/trueberryless-org/awesome-starlight",
+  "bugs": {
+    "url": "https://github.com/trueberryless-org/awesome-starlight/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trueberryless-org/awesome-starlight.git"
+  },
+  "scripts": {
+    "update": "node scripts/update-list.js",
+    "test": "node scripts/update-list.js --dry-run"
+  },
+  "keywords": [
+    "astro",
+    "starlight",
+    "documentation",
+    "awesome",
+    "awesome-list"
+  ],
+  "license": "MIT",
+  "author": "trueberryless <trueberryless@gmail.com> (https://trueberryless.org)",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.33.1",
+    "js-yaml": "^4.1.1",
+    "node-fetch": "^3.3.2"
+  },
+  "packageManager": "pnpm@10.10.0"
+}
