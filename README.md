@@ -72,7 +72,6 @@
 - [starlight-codeblock-fullscreen](https://github.com/frostybee/starlight-codeblock-fullscreen) - Add fullscreen toggle functionality to Expressive Code blocks in your documentation.
 - [starlight-contextual-menu](https://github.com/corsfix/starlight-contextual-menu) - Add a contextual menu to your Starlight documentation.
 - [starlight-contributor-list](https://github.com/trueberryless-org/starlight-contributor-list) - Display a list of all contributors to your project.
-- [starlight-contributor-list](https://github.com/trueberryless-org/starlight-contributor-list) - Display a list of all contributors to your project.
 - [starlight-cooler-credit](https://github.com/trueberryless-org/starlight-cooler-credit) - Add a nice credit to Starlight or Astro at the bottom of the table of contents.
 - [starlight-digital-garden](https://github.com/stereobooster/astro-digital-garden#readme) - Digital garden for starlight
 - [@astrojs/starlight-docsearch](https://starlight.astro.build) - Algolia DocSearch plugin for the Starlight documentation theme for Astro
@@ -96,6 +95,7 @@
 - [starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Create documentation pages from OpenAPI/Swagger specifications.
 - [starlight-package-managers](https://github.com/HiDeoo/starlight-package-managers) - Quickly display npm related commands for multiple package managers.
 - [starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) - Adds page action buttons to your documentation.
+- [starlight-plausible](https://github.com/jakebellacera/starlight-plausible#readme) - Plausible plugin for Astro Starlight
 - [@hideoo/starlight-plugin](https://github.com/HiDeoo/generator-starlight-plugin) - A generator to quickly scaffold Starlight plugins.
 - [starlight-plugin-icons](https://github.com/Rettend/starlight-plugin-icons) - Add icons to Astro Starlight: sidebar, codeblocks, filetree.
 - [starlight-plugin-show-latest-version](https://github.com/trueberryless-org/starlight-plugin-show-latest-version) - Show the latest released version of your package in your documentation.
@@ -167,6 +167,7 @@ Real-world documentation sites built with Starlight:
 - [All Contributors Bot](https://all-contributors.github.io/)
 - [aoi.js - Build Discord Bots with ease](https://aoi.js.org/)
 - [Aptos Docs](https://aptos.dev)
+- [Arcjet docs](https://docs.arcjet.com/)
 - [aspire.dev](https://aspire.dev/)
 - [Astro Breadcrumbs - Documentation | Astro Breadcrumbs](https://docs.astro-breadcrumbs.kasimir.dev/)
 - [Astro Developer Portal | Dev Portal Docs](https://astro-dev-portal-docs.vercel.app/)
@@ -179,6 +180,8 @@ Real-world documentation sites built with Starlight:
 - [Astro Tips](https://astro-tips.dev/)
 - [AstroNvim](https://docs.astronvim.com)
 - [Athena OS](https://athenaos.org)
+- [Ballerine Documentation](https://docs.ballerine.com/)
+- [Beeper Documentation for Developers](https://developers.beeper.com/)
 - [bettercap](https://www.bettercap.org/)
 - [BibTeX Guide: Mastering Reference Management for Bibliographies](https://bibtex.eu/)
 - [Bingo](https://create.bingo)
@@ -194,6 +197,9 @@ Real-world documentation sites built with Starlight:
 - [CloudFront Hosting Toolkit | Cloudfront Hosting Toolkit](https://awslabs.github.io/cloudfront-hosting-toolkit/)
 - [Code for IBM i Docs](https://codefori.github.io/docs/)
 - [CodeSweetly](https://codesweetly.com/)
+- [ConnectyCube: API documentation and tutorials](https://developers.connectycube.com/)
+- [Content Island Docs | Docs](https://docs.contentisland.net/)
+- [Contribute to the freeCodeCamp Community | freeCodeCamp.org](https://contribute.freecodecamp.org/)
 - [Cookie API](https://docs.cookie-api.com)
 - [Corsace Documentation](https://docs.corsace.io/en/)
 - [Corsfix Docs](https://corsfix.com/docs)
@@ -201,13 +207,17 @@ Real-world documentation sites built with Starlight:
 - [Data Package | Data Package Standard](https://datapackage.org/)
 - [Deluge Community](https://delugecommunity.com/)
 - [Demo Time - Live demos & slides in VS Code](https://demotime.show/)
+- [DGANG - Dear God, Another Nix/NixOS Guide](https://dgang.bwc9876.dev/)
 - [DGM](https://docs.dgm.sh/guides/introduction/)
 - [DipSway](https://api.dipsway.com)
+- [Discord Components | Discord Components](https://discord-components.js.org/)
 - [Discord Hono](https://discord-hono.luis.fun/)
 - [DiscordLuau - Making Applications could feel like a dream](https://discord-luau-docs.deno.dev/)
 - [DMNO](https://dmno.dev)
 - [Docs | LiveStore (0.3.0)](https://docs.livestore.dev/)
+- [Domain Watchdog | Monitoring, Expiration & Backorder](https://domainwatchdog.eu/)
 - [Duende Software Docs](https://docs.duendesoftware.com/)
+- [DXOS Documentation](https://docs.dxos.org/)
 - [Eidos Docs](https://docs.eidos.space/)
 - [emoji-blast](https://emojiblast.dev)
 - [EspansoEdit](https://ee.qqv.com.au)
@@ -222,9 +232,11 @@ Real-world documentation sites built with Starlight:
 - [Font Awesome](https://docs.fontawesome.com/)
 - [freeCodeCamp](https://contribute.freecodecamp.org/intro/)
 - [Getting started | Atuin Docs](https://docs.atuin.sh/)
+- [Getting started | Bebop Docs](https://docs.bebop.sh/)
 - [grpcmd](https://grpc.md/docs/)
 - [har.fyi](https://har.fyi/)
 - [hfcReds Documentation | hfcReds Docs](https://docs.hfcred.dev/)
+- [Honeybadger Docs | Error Tracking & Application Monitoring for Developers](https://docs.honeybadger.io/)
 - [I18n for Astro](https://astro-i18n.netlify.app/)
 - [Introduction | Coolify's Documentation](https://coolify.io/docs/)
 - [Introduction | SendBlue Docs](https://docs.sendblue.com/)
@@ -257,7 +269,6 @@ Real-world documentation sites built with Starlight:
 - [Open SaaS Docs](https://docs.opensaas.sh/)
 - [opencode](https://opencode.ai/docs)
 - [openstatus Docs](https://docs.openstatus.dev)
-- [Orama | Orama](https://docs.orama.com/)
 - [Orbit CSS](https://zumerlab.github.io/orbit-docs/)
 - [OwnStats Docs](https://docs.ownstats.com/)
 - [PaperMC Docs](https://docs.papermc.io)
@@ -288,24 +299,28 @@ Real-world documentation sites built with Starlight:
 - [Text To Table Converter](https://texttotableconverter.com)
 - [The AHA Stack](https://ahastack.dev/)
 - [The Dev Health OS](https://www.devhealthos.com/)
-- [The Dusa Programming Language](https://dusa.rocks/docs/)
 - [The Jotter | Bag of Tricks](https://events-3bg.pages.dev/jotter)
+- [Transform Your Umbraco CMS with a Dynamic Dashboard | Astroboard](https://astroboard.website)
 - [TrueCharts](https://truecharts.org/)
 - [TutorialKit](https://tutorialkit.dev/)
+- [Typetura.css | Typetura Docs](https://docs.typetura.com/)
 - [vlt docs](https://docs.vlt.sh/)
 - [Web Monetization API](https://webmonetization.org/docs/)
+- [Welcome | Shorebird](https://docs.shorebird.dev/)
 - [Welcome to Angular Challenges](https://angular-challenges.vercel.app/)
 - [Welcome to Angular Three | Angular Three](https://angularthree-docs-next.netlify.app/)
 - [Welcome to Chamaeleon](https://chamaeleon-docs.vercel.app)
+- [Welcome to FashionUnited's Docs](https://developer.fashionunited.com/)
 - [Welcome to Flagship Code | Flagship Code](https://brandingbrand.github.io/flagship/)
 - [Welcome to LocalStack Docs | Docs](https://docs.localstack.cloud/)
 - [Welcome to our Knowledgebase | HRZN Hosting](https://docs.hrznhosting.com/general/about/)
 - [Welcome to Patchstack Docs | Patchstack Docs](https://docs.patchstack.com/)
 - [Welcome to stan-js | stan-js](https://codemask-labs.github.io/stan-js/)
-- [Welcome to StudioCMS | StudioCMS](https://docs.studiocms.dev)
-- [Welcome to the documentation of Scrumlr. | Scrumlr Docs](https://docs.scrumlr.io/)
+- [Welcome to the WP Engine Headless Platform](https://developers.wpengine.com/docs/)
+- [Welcome to XTDB](https://docs.xtdb.com/index.html)
 - [What is Distr? | Distr Docs](https://distr.sh/docs/getting-started/what-is-distr/)
 - [What is SavvyIdeas | SavvyIdeas Help Center](https://docs.savvyideas.co/)
+- [What is Zarf?](https://docs.zarf.dev/)
 - [Wisp.place Documentation | Wisp.place Docs](https://docs.wisp.place/)
 - [xs-dev docs](https://xs-dev.js.org)
 
