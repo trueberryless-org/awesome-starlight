@@ -406,6 +406,49 @@ class AwesomeStarlightUpdater {
     return false;
   }
 
+  isSameTitle(newItem, officialItem) {
+    const normalize = (t) => (t || "").trim().toLowerCase();
+    return normalize(newItem.title) && normalize(newItem.title) === normalize(officialItem.title);
+  }
+
+  normalizeThemeKey(input) {
+    return (input || "")
+      .toLowerCase()
+      .replace(/https?:\/\/(www\.)?/g, "")
+      .replace(/starlight/g, "")
+      .replace(/theme/g, "")
+      .replace(/astro/g, "")
+      .replace(/docs?/g, "")
+      .replace(/[\s._-]+/g, "")
+      .replace(/[^a-z0-9]/g, "")
+      .trim();
+  }
+
+  extractRepoSlug(url) {
+    return url?.match(/github\.com\/[^/]+\/([^/#?]+)/)?.[1] || "";
+  }
+
+  isLikelySameTheme(a, b) {
+    // Compare by normalized titles and repo slugs to catch doc site vs repo URL cases
+    const keyA = this.normalizeThemeKey(a.title);
+    const keyB = this.normalizeThemeKey(b.title);
+    const repoKeyA = this.normalizeThemeKey(
+      this.extractRepoSlug(a.url || a.homepage || a.repo),
+    );
+    const repoKeyB = this.normalizeThemeKey(
+      this.extractRepoSlug(b.url || b.homepage || b.repo),
+    );
+
+    const keysEqual = (x, y) => x && y && (x === y || x.includes(y) || y.includes(x));
+
+    return (
+      keysEqual(keyA, keyB) ||
+      keysEqual(keyA, repoKeyB) ||
+      keysEqual(keyB, repoKeyA) ||
+      (repoKeyA && repoKeyB && keysEqual(repoKeyA, repoKeyB))
+    );
+  }
+
   async filterSupplementaryPackages(packages) {
     console.log("🔍 Step 3: Filtering & Validating packages...");
 
@@ -603,7 +646,17 @@ Respond with ONLY a JSON object:
     const categorized = await this.categorizeSupplementary(filtered);
 
     this.officialData.plugins.push(...categorized.plugins);
-    this.officialData.themes.push(...categorized.themes);
+    // Avoid adding theme entries already present in official themes list (often demo URLs vs. GitHub repos)
+    const newThemes = categorized.themes.filter(
+      (theme) =>
+        !this.officialData.themes.some(
+          (existing) =>
+            this.isDuplicate(theme, existing) ||
+            this.isSameTitle(theme, existing) ||
+            this.isLikelySameTheme(theme, existing),
+        ),
+    );
+    this.officialData.themes.push(...newThemes);
     this.officialData.tools.push(...categorized.tools);
 
     // Sorting
