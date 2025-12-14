@@ -110,13 +110,11 @@
 - [starlight-to-pdf](https://github.com/Linkerin/starlight-to-pdf) - A CLI tool to convert Starlight websites into PDF files.
 - [starlight-toc-overview-customizer](https://github.com/trueberryless-org/starlight-toc-overview-customizer) - Tweak Starlight’s table of contents with customizable overview title.
 - [starlight-typedoc](https://github.com/HiDeoo/starlight-typedoc) - Generate Starlight pages from TypeScript using TypeDoc.
-- [@cacic-fct/starlight-typesense-docsearch](https://github.com/cacic-fct/starlight-typesense-docsearch#readme) - Unsupported Typesense DocSearch plugin for the Starlight documentation theme for Astro
 - [starlight-ui-tweaks](https://github.com/dlcastillop/starlight-ui-tweaks) - Extends core UI components with custom navigation links, ads, marketing footers, and a cleaner theme toggle.
 - [starlight-utils](https://github.com/lorenzolewis/starlight-utils) - Extend Starlight with a collection of common utilities.
 - [starlight-versions](https://github.com/HiDeoo/starlight-versions) - Version your Starlight documentation pages.
 - [starlight-videos](https://github.com/HiDeoo/starlight-videos) - Enhance your documentation with video guides and courses.
 - [starlight-view-modes](https://github.com/trueberryless/starlight-view-modes) - Add different view mode capabilities to your documentation website.
-- [starlight-view-transitions](https://events-3bg.pages.dev/library/StarlightPlugin/) - Add browser-native cross-document view transitions.
 
 ## Themes
 
@@ -136,13 +134,8 @@ Discover beautiful themes for your Starlight documentation:
 - [Starlight Six](https://six-tech.github.io/Six.StarlightTheme/) - Clean and modern Astro.js Starlight theme by Six Technology
 - [starlight-blog-theme](https://starlight.astro.build) - Build beautiful, high-performance documentation websites with Astro
 - [@openscript-ch/starlight-theme](https://github.com/openscript-ch/starlight-theme) - Starlight theme of openscript Ltd.
-- [starlight-theme-black](https://github.com/adrian-ub/starlight-theme-black#readme) - Starlight theme inspired by Shadcn docs
-- [starlight-theme-galaxy](https://github.com/frostybee/starlight-theme-galaxy) - A customized Astro Starlight theme for publishing docs and educational content.
+- [starlight-theme-bejamas](https://github.com/bejamas/ui#readme) - A Starlight theme using bejamas/ui
 - [@multitheftauto/starlight-theme-mtasa](https://github.com/multitheftauto/starlight-theme-mtasa) - Starlight theme for Multi Theft Auto
-- [starlight-theme-nova](https://github.com/ocavue/starlight-theme-nova#readme) - A beautiful theme for Astro Starlight
-- [starlight-theme-obsidian](https://github.com/Fevol/starlight-theme-obsidian#readme) - A Starlight theme inspired by the Obsidian Publish website theme
-- [starlight-theme-rapide](https://github.com/HiDeoo/starlight-theme-rapide) - Starlight theme inspired by the Visual Studio Code Vitesse theme.
-- [@six-tech/starlight-theme-six](https://github.com/six-tech/Six.StarlightTheme#readme) - Clean and modern Starlight theme by Six Technology
 
 ## Tools
 
@@ -164,7 +157,6 @@ Real-world documentation sites built with Starlight:
 - [Advent of Open Source 2024 | Advent of Open Source](https://adventofopensource.com/)
 - [Aembit Docs](https://docs.aembit.io/)
 - [AI Prompt Snippets](https://ai-prompt-snippets.vercel.app/)
-- [All Contributors Bot](https://all-contributors.github.io/)
 - [aoi.js - Build Discord Bots with ease](https://aoi.js.org/)
 - [Aptos Docs](https://aptos.dev)
 - [Arcjet docs](https://docs.arcjet.com/)
@@ -173,8 +165,6 @@ Real-world documentation sites built with Starlight:
 - [Astro Developer Portal | Dev Portal Docs](https://astro-dev-portal-docs.vercel.app/)
 - [Astro Docs](https://docs.astro.build/)
 - [Astro Docs Docs (AD²) | Astro Docs Docs (AD²)](https://contribute.docs.astro.build/)
-- [Astro Embed](https://astro-embed.netlify.app/)
-- [Astro Integration Kit](https://astro-integration-kit.netlify.app/)
 - [Astro Snipcart](https://astro-snipcart.vercel.app/)
 - [Astro Social Share Documentation | Astro Social Share](https://astro-social-share.mckerlie.com/)
 - [Astro Tips](https://astro-tips.dev/)
@@ -248,6 +238,7 @@ Real-world documentation sites built with Starlight:
 - [LavaMoat](https://lavamoat.github.io/)
 - [Learn AISO](https://learnaiso.com)
 - [Letta Developer Platform | Letta Docs](https://docs.letta.com/)
+- [LikeC4](https://docs.likec4.dev/)
 - [Linwood Butterfly](https://butterfly.linwood.dev/)
 - [lychee](https://lychee.cli.rs/)
 - [Microsoft Certification Hub](https://certs.msfthub.wiki/)
@@ -269,6 +260,7 @@ Real-world documentation sites built with Starlight:
 - [Open SaaS Docs](https://docs.opensaas.sh/)
 - [opencode](https://opencode.ai/docs)
 - [openstatus Docs](https://docs.openstatus.dev)
+- [Orama | Orama](https://docs.orama.com/)
 - [Orbit CSS](https://zumerlab.github.io/orbit-docs/)
 - [OwnStats Docs](https://docs.ownstats.com/)
 - [PaperMC Docs](https://docs.papermc.io)
@@ -298,6 +290,7 @@ Real-world documentation sites built with Starlight:
 - [Terrateam Docs](https://terrateam.io/docs)
 - [Text To Table Converter](https://texttotableconverter.com)
 - [The AHA Stack](https://ahastack.dev/)
+- [The Best in DevX | Dirt Road Dev](https://docs.dirtroad.dev/)
 - [The Dev Health OS](https://www.devhealthos.com/)
 - [The Jotter | Bag of Tricks](https://events-3bg.pages.dev/jotter)
 - [Transform Your Umbraco CMS with a Dynamic Dashboard | Astroboard](https://astroboard.website)
@@ -316,6 +309,8 @@ Real-world documentation sites built with Starlight:
 - [Welcome to our Knowledgebase | HRZN Hosting](https://docs.hrznhosting.com/general/about/)
 - [Welcome to Patchstack Docs | Patchstack Docs](https://docs.patchstack.com/)
 - [Welcome to stan-js | stan-js](https://codemask-labs.github.io/stan-js/)
+- [Welcome to StudioCMS | StudioCMS](https://docs.studiocms.dev)
+- [Welcome to the documentation of Scrumlr. | Scrumlr Docs](https://docs.scrumlr.io/)
 - [Welcome to the WP Engine Headless Platform](https://developers.wpengine.com/docs/)
 - [Welcome to XTDB](https://docs.xtdb.com/index.html)
 - [What is Distr? | Distr Docs](https://distr.sh/docs/getting-started/what-is-distr/)
@@ -353,7 +348,7 @@ Video tutorials and screencasts:
 - [Comparing docs site builders: VuePress vs Starlight](https://www.olets.dev/posts/comparing-docs-site-builders-vuepress-vs-starlight/) - How do these two frameworks measure up?
 - [Contributing to Starlight](https://hideoo.dev/notes/contributing-to-starlight) - My personal experience and suggestions for contributing to open-source projects like Starlight.
 - [Edit the HTML head of Starlight pages](https://hideoo.dev/notes/starlight-custom-html-head) - Learn how to add common head content such as web analytics, fonts, and scripts.
-- [Enable View Transitions](https://events-3bg.pages.dev/jotter/starlight/guide/) - Get that SPA-like look and feel with the Bag of Tricks’ view transitions support.
+- [Enable View Transitions](https://events-3bg.pages.dev/jotter/starlight/) - Add support for view transitions, client-side routing, and SPA-like navigation to your Starlight documentation site.
 - [Generate Open Graph images for Starlight using the Cloudinary Astro SDK](https://hideoo.dev/notes/starlight-og-images-cloudinary-astro-sdk) - Learn how to use the Cloudinary Astro SDK to generate Open Graph images for your Starlight documentation website.
 - [Hybrid Frontend Architecture with Astro and Starlight](https://frontendatscale.com/blog/hybrid-frontend-architecture/) - Maxi Ferreira and Ben Holmes build a docs site with Starlight, TinaCMS, and an interactive API Playground with authentication.
 - [List recent GitHub releases in Starlight using the Astro Content Layer API](https://hideoo.dev/notes/starlight-list-recent-github-releases) - Learn how to use the Astro Content Layer API to list the recent GitHub releases in a Starlight project.
