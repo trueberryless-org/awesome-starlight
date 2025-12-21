@@ -79,11 +79,13 @@
 - [starlight-fullview-mode](https://github.com/WindMillCode/starlight-fullview-mode) - Collapse sidebars and expand content for a fullscreen experience.
 - [starlight-giscus](https://github.com/dragomano/starlight-giscus) - Add Giscus comments to your docs site.
 - [starlight-github-alerts](https://github.com/HiDeoo/starlight-github-alerts) - Render GitHub alerts as Starlight asides.
+- [starlight-gtm](https://github.com/jbend/starlight-gtm) - Starlight plugin for Google Tag Manager
 - [starlight-heading-badges](https://github.com/HiDeoo/starlight-heading-badges) - Add badges to your Markdown and MDX headings.
 - [starlight-i18n](https://github.com/HiDeoo/starlight-i18n) - Visual Studio Code extension to help translate Starlight pages.
 - [starlight-image-zoom](https://github.com/HiDeoo/starlight-image-zoom) - Add zoom capabilities to your documentation images.
 - [starlight-katex](https://github.com/stereobooster/astro-digital-garden#readme) - Starlight plugin for Katex
 - [starlight-kbd](https://github.com/HiDeoo/starlight-kbd) - Document keyboard shortcuts with ease.
+- [starlight-latest-version](https://github.com/trueberryless-org/starlight-latest-version) - Show the latest released version of your package in your Starlight documentation.
 - [starlight-links](https://github.com/HiDeoo/starlight-links) - Visual Studio Code extension providing IntelliSense for Starlight Markdown and MDX content links.
 - [starlight-links-validator](https://github.com/HiDeoo/starlight-links-validator) - Check for broken links in your Starlight pages.
 - [starlight-llm-button](https://github.com/dtechvision/starlight-llm-button) - Add a copy to llm button to Starlight or Astro at the top of Table of Contents.
@@ -144,6 +146,7 @@ Development tools and utilities for Starlight:
 - [hypergen-starlight](https://github.com/subtletools/hypergen-starlight) - Hypergen pack for creating Astro/Starlight documentation sites with TypeDoc integration
 - [@entro314labs/starlight-document-converter](https://github.com/entro314-labs/starlight-document-converter#readme) - A document converter for Astro Starlight that transforms various document formats into Starlight-compatible Markdown with proper frontmatter
 - [starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
+- [@rttnd/starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
 - [@hideoo/starlight-plugins-docs-components](https://github.com/HiDeoo/starlight-plugins-docs-components) - Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations.
 - [@lorenzo_lewis/starlight-utils](https://starlight-utils.pages.dev) - Utilities to use with your 🌟 Starlight site.
 
@@ -152,6 +155,7 @@ Development tools and utilities for Starlight:
 Real-world documentation sites built with Starlight:
 
 - [@vtbag](https://vtbag.dev)
+- [3D Printing Wiki | 3D Printing Wiki](https://3d-printing.wiki/)
 - [Academeez](https://www.academeez.com/)
 - [Accessible Astro](https://accessible-astro.incluud.dev)
 - [Advent of Open Source 2024 | Advent of Open Source](https://adventofopensource.com/)
@@ -165,6 +169,8 @@ Real-world documentation sites built with Starlight:
 - [Astro Developer Portal | Dev Portal Docs](https://astro-dev-portal-docs.vercel.app/)
 - [Astro Docs](https://docs.astro.build/)
 - [Astro Docs Docs (AD²) | Astro Docs Docs (AD²)](https://contribute.docs.astro.build/)
+- [Astro Embed](https://astro-embed.netlify.app/)
+- [Astro Integration Kit](https://astro-integration-kit.netlify.app/)
 - [Astro Snipcart](https://astro-snipcart.vercel.app/)
 - [Astro Social Share Documentation | Astro Social Share](https://astro-social-share.mckerlie.com/)
 - [Astro Tips](https://astro-tips.dev/)
@@ -205,7 +211,6 @@ Real-world documentation sites built with Starlight:
 - [DiscordLuau - Making Applications could feel like a dream](https://discord-luau-docs.deno.dev/)
 - [DMNO](https://dmno.dev)
 - [Docs | LiveStore (0.3.0)](https://docs.livestore.dev/)
-- [Domain Watchdog | Monitoring, Expiration & Backorder](https://domainwatchdog.eu/)
 - [Duende Software Docs](https://docs.duendesoftware.com/)
 - [DXOS Documentation](https://docs.dxos.org/)
 - [Eidos Docs](https://docs.eidos.space/)
@@ -231,6 +236,7 @@ Real-world documentation sites built with Starlight:
 - [Introduction | Coolify's Documentation](https://coolify.io/docs/)
 - [Introduction | SendBlue Docs](https://docs.sendblue.com/)
 - [Isomorphic Validation](https://itihon.github.io/isomorphic-validation/)
+- [IW4x Documentation | IW4x Docs](https://docs.iw4x.dev/)
 - [Kanri](https://www.kanriapp.com/getting-started/what-is-kanri/)
 - [Kinde](https://docs.kinde.com/)
 - [Knip](https://knip.dev)
@@ -285,6 +291,7 @@ Real-world documentation sites built with Starlight:
 - [Some drops of PHP Book](https://drops-of-php.hi-folks.dev/)
 - [Sonar](https://sonar-team.github.io/doc/)
 - [SST Ion](https://ion.sst.dev/)
+- [STACKIT Docs](https://docs.stackit.cloud)
 - [starlight-plugin-icons | starlight-plugin-icons](https://docs.rettend.me/starlight-plugin-icons/)
 - [Style Dictionary](https://styledictionary.com/)
 - [Terrateam Docs](https://terrateam.io/docs)
@@ -293,7 +300,6 @@ Real-world documentation sites built with Starlight:
 - [The Best in DevX | Dirt Road Dev](https://docs.dirtroad.dev/)
 - [The Dev Health OS](https://www.devhealthos.com/)
 - [The Jotter | Bag of Tricks](https://events-3bg.pages.dev/jotter)
-- [Transform Your Umbraco CMS with a Dynamic Dashboard | Astroboard](https://astroboard.website)
 - [TrueCharts](https://truecharts.org/)
 - [TutorialKit](https://tutorialkit.dev/)
 - [Typetura.css | Typetura Docs](https://docs.typetura.com/)
@@ -301,7 +307,6 @@ Real-world documentation sites built with Starlight:
 - [Web Monetization API](https://webmonetization.org/docs/)
 - [Welcome | Shorebird](https://docs.shorebird.dev/)
 - [Welcome to Angular Challenges](https://angular-challenges.vercel.app/)
-- [Welcome to Angular Three | Angular Three](https://angularthree-docs-next.netlify.app/)
 - [Welcome to Chamaeleon](https://chamaeleon-docs.vercel.app)
 - [Welcome to FashionUnited's Docs](https://developer.fashionunited.com/)
 - [Welcome to Flagship Code | Flagship Code](https://brandingbrand.github.io/flagship/)
@@ -310,6 +315,7 @@ Real-world documentation sites built with Starlight:
 - [Welcome to Patchstack Docs | Patchstack Docs](https://docs.patchstack.com/)
 - [Welcome to stan-js | stan-js](https://codemask-labs.github.io/stan-js/)
 - [Welcome to StudioCMS | StudioCMS](https://docs.studiocms.dev)
+- [Welcome to Tech For Everyone](https://beta.learning.nicholasdwest.com/)
 - [Welcome to the documentation of Scrumlr. | Scrumlr Docs](https://docs.scrumlr.io/)
 - [Welcome to the WP Engine Headless Platform](https://developers.wpengine.com/docs/)
 - [Welcome to XTDB](https://docs.xtdb.com/index.html)
