@@ -148,6 +148,7 @@ Development tools and utilities for Starlight:
 - [starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
 - [@rttnd/starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
 - [@hideoo/starlight-plugins-docs-components](https://github.com/HiDeoo/starlight-plugins-docs-components) - Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations.
+- [@ratiu5/starlight-search-cli](https://github.com/RATIU5/webgpu-llm#readme) - Starlight search CLI
 - [@lorenzo_lewis/starlight-utils](https://starlight-utils.pages.dev) - Utilities to use with your 🌟 Starlight site.
 
 ## Showcases
@@ -307,6 +308,7 @@ Real-world documentation sites built with Starlight:
 - [Web Monetization API](https://webmonetization.org/docs/)
 - [Welcome | Shorebird](https://docs.shorebird.dev/)
 - [Welcome to Angular Challenges](https://angular-challenges.vercel.app/)
+- [Welcome to Angular Three | Angular Three](https://angularthree-docs-next.netlify.app/)
 - [Welcome to Chamaeleon](https://chamaeleon-docs.vercel.app)
 - [Welcome to FashionUnited's Docs](https://developer.fashionunited.com/)
 - [Welcome to Flagship Code | Flagship Code](https://brandingbrand.github.io/flagship/)
@@ -314,7 +316,6 @@ Real-world documentation sites built with Starlight:
 - [Welcome to our Knowledgebase | HRZN Hosting](https://docs.hrznhosting.com/general/about/)
 - [Welcome to Patchstack Docs | Patchstack Docs](https://docs.patchstack.com/)
 - [Welcome to stan-js | stan-js](https://codemask-labs.github.io/stan-js/)
-- [Welcome to StudioCMS | StudioCMS](https://docs.studiocms.dev)
 - [Welcome to Tech For Everyone](https://beta.learning.nicholasdwest.com/)
 - [Welcome to the documentation of Scrumlr. | Scrumlr Docs](https://docs.scrumlr.io/)
 - [Welcome to the WP Engine Headless Platform](https://developers.wpengine.com/docs/)
