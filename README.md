@@ -90,6 +90,7 @@
 - [starlight-links-validator](https://github.com/HiDeoo/starlight-links-validator) - Check for broken links in your Starlight pages.
 - [starlight-llm-button](https://github.com/dtechvision/starlight-llm-button) - Add a copy to llm button to Starlight or Astro at the top of Table of Contents.
 - [starlight-llms-txt](https://github.com/delucis/starlight-llms-txt) - Add llms.txt to your documentation site based on llmstxt.org.
+- [@astrojs/starlight-markdoc](https://starlight.astro.build) - Markdoc preset for the Starlight documentation theme for Astro
 - [starlight-markdown-blocks](https://delucis.github.io/starlight-markdown-blocks/) - Extend Starlight’s Markdown asides syntax with custom block types.
 - [starlight-nutshell](https://github.com/jojokcreator/nutshell-plugin) - make expandable explanations using nutshell.js
 - [starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Publish Obsidian vaults in your Starlight site.
@@ -107,6 +108,8 @@
 - [starlight-sidebar-topics](https://github.com/HiDeoo/starlight-sidebar-topics) - Split your documentation into different sections, each with its own sidebar.
 - [starlight-sidebar-topics-dropdown](https://github.com/trueberryless-org/starlight-sidebar-topics-dropdown) - Split your docs page into multiple subpages and switch between them with a dropdown menu in the sidebar.
 - [starlight-site-graph](https://github.com/Fevol/starlight-site-graph) - Add an interactive site graph inside your page’s sidebar.
+- [starlight-tags](https://frostybee.github.io/starlight-tags/) - Add tags to your Starlight documentation pages for content organization and discovery.
+- [starlight-tags](https://github.com/frostybee/starlight-tags) - A Starlight plugin for organizing docs with tags and auto-generated tag pages.
 - [@astrojs/starlight-tailwind](https://starlight.astro.build) - Tailwind CSS plugin for the Starlight documentation theme for Astro
 - [starlight-to-pdf](https://github.com/Linkerin/starlight-to-pdf) - A CLI tool to convert Starlight websites into PDF files.
 - [starlight-toc-overview-customizer](https://github.com/trueberryless-org/starlight-toc-overview-customizer) - Tweak Starlight’s table of contents with customizable overview title.
@@ -122,6 +125,7 @@
 Discover beautiful themes for your Starlight documentation:
 
 - [Catppuccin for Starlight](https://starlight.catppuccin.com/) - Soothing pastel theme for Starlight.
+- [hc-starlight](https://github.com/saif-abdelrazek/hc-starlight) - Astro Starlight theme with Hack Club branding — for building beautiful docs and playgrounds
 - [Ion](https://louisescher.github.io/starlight-ion-theme/) - A sleek, modern theme for Starlight.
 - [Starlight Black](https://starlight-theme-black.vercel.app/) - Starlight theme inspired by shadcn docs.
 - [Starlight Flexoki](https://delucis.github.io/starlight-theme-flexoki/) - A warm and friendly theme based on the Flexoki color palette.
@@ -146,7 +150,6 @@ Development tools and utilities for Starlight:
 - [@entro314labs/starlight-document-converter](https://github.com/entro314-labs/starlight-document-converter#readme) - A document converter for Astro Starlight that transforms various document formats into Starlight-compatible Markdown with proper frontmatter
 - [starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
 - [@rttnd/starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
-- [@astrojs/starlight-markdoc](https://starlight.astro.build) - Markdoc preset for the Starlight documentation theme for Astro
 - [@hideoo/starlight-plugins-docs-components](https://github.com/HiDeoo/starlight-plugins-docs-components) - Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations.
 - [@ratiu5/starlight-search-cli](https://github.com/RATIU5/webgpu-llm#readme) - Starlight search CLI
 - [@lorenzo_lewis/starlight-utils](https://starlight-utils.pages.dev) - Utilities to use with your 🌟 Starlight site.
@@ -170,7 +173,6 @@ Real-world documentation sites built with Starlight:
 - [Astro Developer Portal | Dev Portal Docs](https://astro-dev-portal-docs.vercel.app/)
 - [Astro Docs](https://docs.astro.build/)
 - [Astro Docs Docs (AD²) | Astro Docs Docs (AD²)](https://contribute.docs.astro.build/)
-- [Astro Embed](https://astro-embed.netlify.app/)
 - [Astro Integration Kit](https://astro-integration-kit.netlify.app/)
 - [Astro Snipcart](https://astro-snipcart.vercel.app/)
 - [Astro Social Share Documentation | Astro Social Share](https://astro-social-share.mckerlie.com/)
@@ -188,6 +190,7 @@ Real-world documentation sites built with Starlight:
 - [Bookshelf](https://bookshelf.docs.joss.dev/)
 - [Capgo](https://capgo.app/docs)
 - [capo.js](https://rviscomi.github.io/capo.js/)
+- [CatchIntent](https://catchintent.com/docs)
 - [ChefKiss | ChefKiss](https://chefkissinc.github.io/)
 - [Class Variance Authority | cva@beta](https://beta.cva.style/)
 - [Cloudflare Docs](https://developers.cloudflare.com/)
@@ -205,11 +208,16 @@ Real-world documentation sites built with Starlight:
 - [Deluge Community](https://delugecommunity.com/)
 - [Demo Time - Live demos & slides in VS Code](https://demotime.show/)
 - [DGANG - Dear God, Another Nix/NixOS Guide](https://dgang.bwc9876.dev/)
+- [DGM](https://docs.dgm.sh/guides/introduction/)
 - [DipSway](https://api.dipsway.com)
 - [Discord Components | Discord Components](https://discord-components.js.org/)
 - [Discord Hono](https://discord-hono.luis.fun/)
 - [DiscordLuau - Making Applications could feel like a dream](https://discord-luau-docs.deno.dev/)
 - [DMNO](https://dmno.dev)
+- [Docs | LiveStore (0.3.0)](https://docs.livestore.dev/)
+- [Duende Software Docs](https://docs.duendesoftware.com/)
+- [DXOS Documentation](https://docs.dxos.org/)
+- [Eidos Docs](https://docs.eidos.space/)
 - [emoji-blast](https://emojiblast.dev)
 - [EspansoEdit](https://ee.qqv.com.au)
 - [Ethereum Follow Protocol](https://docs.ethfollow.xyz/)
@@ -226,20 +234,28 @@ Real-world documentation sites built with Starlight:
 - [Getting started | Bebop Docs](https://docs.bebop.sh/)
 - [grpcmd](https://grpc.md/docs/)
 - [har.fyi](https://har.fyi/)
+- [hfcReds Documentation | hfcReds Docs](https://docs.hfcred.dev/)
+- [Honeybadger Docs | Error Tracking & Application Monitoring for Developers](https://docs.honeybadger.io/)
+- [httpmock | httpmock Tutorial](https://alexliesenfeld.github.io/httpmock/)
 - [I18n for Astro](https://astro-i18n.netlify.app/)
 - [Ignite Element | Ignite Element v2](http://0xjcf.github.io/ignite-element/)
 - [Introduction | Coolify's Documentation](https://coolify.io/docs/)
+- [Introduction | SendBlue Docs](https://docs.sendblue.com/)
 - [Isomorphic Validation](https://itihon.github.io/isomorphic-validation/)
+- [IW4x Documentation | IW4x Docs](https://docs.iw4x.dev/)
 - [Kanri](https://www.kanriapp.com/getting-started/what-is-kanri/)
 - [Kinde](https://docs.kinde.com/)
 - [Knip](https://knip.dev)
 - [LaunchFast](https://www.launchfa.st/documentation)
 - [LavaMoat](https://lavamoat.github.io/)
 - [Learn AISO](https://learnaiso.com)
+- [Letta Developer Platform | Letta Docs](https://docs.letta.com/)
+- [LikeC4](https://docs.likec4.dev/)
 - [Linwood Butterfly](https://butterfly.linwood.dev/)
 - [lychee](https://lychee.cli.rs/)
 - [Microsoft Certification Hub](https://certs.msfthub.wiki/)
 - [modestbench](https://modestbench.dev/)
+- [Modrinth docs | Modrinth Documentation](https://docs.modrinth.com/)
 - [Mr. Robøt](https://docs.mrrobot.app)
 - [MyBatis-Plus 🚀 为简化开发而生](https://baomidou.com/)
 - [Netlify CLI command reference | Netlify CLI command reference](https://cli.netlify.com/)
@@ -256,6 +272,7 @@ Real-world documentation sites built with Starlight:
 - [Open SaaS Docs](https://docs.opensaas.sh/)
 - [opencode](https://opencode.ai/docs)
 - [openstatus Docs](https://docs.openstatus.dev)
+- [Orama | Orama](https://docs.orama.com/)
 - [Orbit CSS](https://zumerlab.github.io/orbit-docs/)
 - [PaperMC Docs](https://docs.papermc.io)
 - [pls](https://pls.cli.rs/)
@@ -267,6 +284,7 @@ Real-world documentation sites built with Starlight:
 - [React Bricks](https://docs.reactbricks.com)
 - [Refact](https://docs.refact.ai/)
 - [RunsOn](https://runs-on.com)
+- [SaaS Pegasus Documentation | SaaS Pegasus](https://docs.saaspegasus.com/)
 - [Saasfly](https://document.saasfly.io/)
 - [Saucer](https://saucer.app)
 - [Scalekit Docs](https://docs.scalekit.com/)
@@ -279,24 +297,33 @@ Real-world documentation sites built with Starlight:
 - [Sonar](https://sonar-team.github.io/doc/)
 - [SST Ion](https://ion.sst.dev/)
 - [STACKIT Docs](https://docs.stackit.cloud)
+- [starlight-plugin-icons | starlight-plugin-icons](https://docs.rettend.me/starlight-plugin-icons/)
 - [Style Dictionary](https://styledictionary.com/)
 - [Terrateam Docs](https://terrateam.io/docs)
 - [Text To Table Converter](https://texttotableconverter.com)
 - [The AHA Stack](https://ahastack.dev/)
+- [The Best in DevX | Dirt Road Dev](https://docs.dirtroad.dev/)
 - [The Dev Health OS](https://www.devhealthos.com/)
 - [The Jotter | Bag of Tricks](https://events-3bg.pages.dev/jotter)
 - [TrueCharts](https://truecharts.org/)
 - [TutorialKit](https://tutorialkit.dev/)
 - [vlt docs](https://docs.vlt.sh/)
 - [Web Monetization API](https://webmonetization.org/docs/)
+- [Welcome | Shorebird](https://docs.shorebird.dev/)
 - [Welcome to Angular Challenges](https://angular-challenges.vercel.app/)
 - [Welcome to Chamaeleon](https://chamaeleon-docs.vercel.app)
 - [Welcome to FashionUnited's Docs](https://developer.fashionunited.com/)
 - [Welcome to Flagship Code | Flagship Code](https://brandingbrand.github.io/flagship/)
+- [Welcome to LocalStack Docs | Docs](https://docs.localstack.cloud/)
+- [Welcome to our Knowledgebase | HRZN Hosting](https://docs.hrznhosting.com/general/about/)
+- [Welcome to Patchstack Docs | Patchstack Docs](https://docs.patchstack.com/)
 - [Welcome to stan-js | stan-js](https://codemask-labs.github.io/stan-js/)
+- [Welcome to StudioCMS | StudioCMS](https://docs.studiocms.dev)
 - [Welcome to Tech For Everyone](https://beta.learning.nicholasdwest.com/)
+- [Welcome to the documentation of Scrumlr. | Scrumlr Docs](https://docs.scrumlr.io/)
 - [Welcome to the WP Engine Headless Platform](https://developers.wpengine.com/docs/)
 - [What is Distr? | Distr Docs](https://distr.sh/docs/getting-started/what-is-distr/)
+- [What is SavvyIdeas | SavvyIdeas Help Center](https://docs.savvyideas.co/)
 - [xs-dev docs](https://xs-dev.js.org)
 
 ## Videos
