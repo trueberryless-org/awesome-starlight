@@ -76,6 +76,7 @@
 - [starlight-digital-garden](https://github.com/stereobooster/astro-digital-garden#readme) - Digital garden for starlight
 - [@astrojs/starlight-docsearch](https://starlight.astro.build) - Algolia DocSearch plugin for the Starlight documentation theme for Astro
 - [starlight-docsearch-typesense](https://github.com/typesense/starlight-docsearch-typesense) - A Typesense-powered alternative to the official Algolia DocSearch plugin.
+- [starlight-dot-md](https://github.com/morinokami/starlight-dot-md#readme) - A Starlight plugin that exposes raw markdown files at `.md` URLs.
 - [starlight-fullview-mode](https://github.com/WindMillCode/starlight-fullview-mode) - Collapse sidebars and expand content for a fullscreen experience.
 - [starlight-giscus](https://github.com/dragomano/starlight-giscus) - Add Giscus comments to your docs site.
 - [starlight-github-alerts](https://github.com/HiDeoo/starlight-github-alerts) - Render GitHub alerts as Starlight asides.
@@ -173,6 +174,7 @@ Real-world documentation sites built with Starlight:
 - [Astro Developer Portal | Dev Portal Docs](https://astro-dev-portal-docs.vercel.app/)
 - [Astro Docs](https://docs.astro.build/)
 - [Astro Docs Docs (AD²) | Astro Docs Docs (AD²)](https://contribute.docs.astro.build/)
+- [Astro Embed](https://astro-embed.netlify.app/)
 - [Astro Integration Kit](https://astro-integration-kit.netlify.app/)
 - [Astro Snipcart](https://astro-snipcart.vercel.app/)
 - [Astro Social Share Documentation | Astro Social Share](https://astro-social-share.mckerlie.com/)
@@ -236,13 +238,11 @@ Real-world documentation sites built with Starlight:
 - [har.fyi](https://har.fyi/)
 - [hfcReds Documentation | hfcReds Docs](https://docs.hfcred.dev/)
 - [Honeybadger Docs | Error Tracking & Application Monitoring for Developers](https://docs.honeybadger.io/)
-- [httpmock | httpmock Tutorial](https://alexliesenfeld.github.io/httpmock/)
 - [I18n for Astro](https://astro-i18n.netlify.app/)
 - [Ignite Element | Ignite Element v2](http://0xjcf.github.io/ignite-element/)
 - [Introduction | Coolify's Documentation](https://coolify.io/docs/)
 - [Introduction | SendBlue Docs](https://docs.sendblue.com/)
 - [Isomorphic Validation](https://itihon.github.io/isomorphic-validation/)
-- [IW4x Documentation | IW4x Docs](https://docs.iw4x.dev/)
 - [Kanri](https://www.kanriapp.com/getting-started/what-is-kanri/)
 - [Kinde](https://docs.kinde.com/)
 - [Knip](https://knip.dev)
@@ -250,7 +250,6 @@ Real-world documentation sites built with Starlight:
 - [LavaMoat](https://lavamoat.github.io/)
 - [Learn AISO](https://learnaiso.com)
 - [Letta Developer Platform | Letta Docs](https://docs.letta.com/)
-- [LikeC4](https://docs.likec4.dev/)
 - [Linwood Butterfly](https://butterfly.linwood.dev/)
 - [lychee](https://lychee.cli.rs/)
 - [Microsoft Certification Hub](https://certs.msfthub.wiki/)
@@ -274,6 +273,7 @@ Real-world documentation sites built with Starlight:
 - [openstatus Docs](https://docs.openstatus.dev)
 - [Orama | Orama](https://docs.orama.com/)
 - [Orbit CSS](https://zumerlab.github.io/orbit-docs/)
+- [OwnStats Docs](https://docs.ownstats.com/)
 - [PaperMC Docs](https://docs.papermc.io)
 - [pls](https://pls.cli.rs/)
 - [Pokemon Database](https://pokemon-siace.netlify.app/)
@@ -302,7 +302,6 @@ Real-world documentation sites built with Starlight:
 - [Terrateam Docs](https://terrateam.io/docs)
 - [Text To Table Converter](https://texttotableconverter.com)
 - [The AHA Stack](https://ahastack.dev/)
-- [The Best in DevX | Dirt Road Dev](https://docs.dirtroad.dev/)
 - [The Dev Health OS](https://www.devhealthos.com/)
 - [The Jotter | Bag of Tricks](https://events-3bg.pages.dev/jotter)
 - [TrueCharts](https://truecharts.org/)
@@ -316,10 +315,7 @@ Real-world documentation sites built with Starlight:
 - [Welcome to Flagship Code | Flagship Code](https://brandingbrand.github.io/flagship/)
 - [Welcome to LocalStack Docs | Docs](https://docs.localstack.cloud/)
 - [Welcome to our Knowledgebase | HRZN Hosting](https://docs.hrznhosting.com/general/about/)
-- [Welcome to Patchstack Docs | Patchstack Docs](https://docs.patchstack.com/)
 - [Welcome to stan-js | stan-js](https://codemask-labs.github.io/stan-js/)
-- [Welcome to StudioCMS | StudioCMS](https://docs.studiocms.dev)
-- [Welcome to Tech For Everyone](https://beta.learning.nicholasdwest.com/)
 - [Welcome to the documentation of Scrumlr. | Scrumlr Docs](https://docs.scrumlr.io/)
 - [Welcome to the WP Engine Headless Platform](https://developers.wpengine.com/docs/)
 - [What is Distr? | Distr Docs](https://distr.sh/docs/getting-started/what-is-distr/)
