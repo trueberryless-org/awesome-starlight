@@ -76,6 +76,7 @@
 - [starlight-contributor-list](https://github.com/trueberryless-org/starlight-contributor-list) - Display a list of all contributors to your project.
 - [starlight-cooler-credit](https://github.com/trueberryless-org/starlight-cooler-credit) - Add a nice credit to Starlight or Astro at the bottom of the table of contents.
 - [starlight-copy-inline-code](https://github.com/rightstack/starlight-copy-inline-code#readme) - A Starlight plugin that adds copy buttons to inline code elements
+- [starlight-dbt](https://github.com/walter9388/starlight-dbt#readme) - A Starlight plugin for dbt docs integration
 - [starlight-digital-garden](https://github.com/stereobooster/astro-digital-garden#readme) - Digital garden for starlight
 - [@astrojs/starlight-docsearch](https://starlight.astro.build) - Algolia DocSearch plugin for the Starlight documentation theme for Astro
 - [starlight-docsearch-typesense](https://github.com/typesense/starlight-docsearch-typesense) - A Typesense-powered alternative to the official Algolia DocSearch plugin.
@@ -223,6 +224,7 @@ Real-world documentation sites built with Starlight:
 - [Discord Hono](https://discord-hono.luis.fun/)
 - [DiscordLuau - Making Applications could feel like a dream](https://discord-luau-docs.deno.dev/)
 - [DMNO](https://dmno.dev)
+- [Documentation DevSecOps — Formations, guides et quiz](https://blog.stephane-robert.info/)
 - [Duende Software Docs](https://docs.duendesoftware.com/)
 - [DXOS Documentation](https://docs.dxos.org/)
 - [Eidos Docs](https://docs.eidos.space/)
@@ -249,7 +251,6 @@ Real-world documentation sites built with Starlight:
 - [Ignite Element | Ignite Element v2](http://0xjcf.github.io/ignite-element/)
 - [Introduction | Coolify's Documentation](https://coolify.io/docs/)
 - [Isomorphic Validation](https://itihon.github.io/isomorphic-validation/)
-- [IW4x Documentation | IW4x Docs](https://docs.iw4x.dev/)
 - [Kanri](https://www.kanriapp.com/getting-started/what-is-kanri/)
 - [Kinde](https://docs.kinde.com/)
 - [Knip](https://knip.dev)
@@ -302,7 +303,6 @@ Real-world documentation sites built with Starlight:
 - [Style Dictionary](https://styledictionary.com/)
 - [Terrateam Docs](https://terrateam.io/docs)
 - [Text To Table Converter](https://texttotableconverter.com)
-- [The AHA Stack](https://ahastack.dev/)
 - [The Dev Health OS](https://www.devhealthos.com/)
 - [The Jotter | Bag of Tricks](https://events-3bg.pages.dev/jotter)
 - [TrueCharts](https://truecharts.org/)
@@ -347,6 +347,7 @@ Video tutorials and screencasts:
 - [Case Study: Slashing Development Costs](https://astro.build/case-studies/wp-engine/) - How WP Engine Lowered Development Costs by Over 50% with Astro’s Starlight.
 - [Comparing docs site builders: VuePress vs Starlight](https://www.olets.dev/posts/comparing-docs-site-builders-vuepress-vs-starlight/) - How do these two frameworks measure up?
 - [Contributing to Starlight](https://hideoo.dev/notes/contributing-to-starlight) - My personal experience and suggestions for contributing to open-source projects like Starlight.
+- [Customizing Astro Starlight Sidebar for Gated Content with Authentication](https://lirantal.com/blog/customizing-astro-starlight-sidebar-gated-content-auth) - Secure your course material by using Clerk and SSR to dynamically hide or reveal Starlight sidebar chapters based on user login.
 - [Edit the HTML head of Starlight pages](https://hideoo.dev/notes/starlight-custom-html-head) - Learn how to add common head content such as web analytics, fonts, and scripts.
 - [Enable View Transitions](https://events-3bg.pages.dev/jotter/starlight/) - Add support for view transitions, client-side routing, and SPA-like navigation to your Starlight documentation site.
 - [Generate Open Graph images for Starlight using the Cloudinary Astro SDK](https://hideoo.dev/notes/starlight-og-images-cloudinary-astro-sdk) - Learn how to use the Cloudinary Astro SDK to generate Open Graph images for your Starlight documentation website.
