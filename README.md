@@ -99,13 +99,13 @@
 - [starlight-links-validator](https://github.com/HiDeoo/starlight-links-validator) - Check for broken links in your Starlight pages.
 - [starlight-llm-button](https://github.com/dtechvision/starlight-llm-button) - Add a copy to llm button to Starlight or Astro at the top of Table of Contents.
 - [starlight-llms-txt](https://github.com/delucis/starlight-llms-txt) - Add llms.txt to your documentation site based on llmstxt.org.
-- [@astrojs/starlight-markdoc](https://starlight.astro.build) - Markdoc preset for the Starlight documentation theme for Astro
 - [starlight-markdown-blocks](https://delucis.github.io/starlight-markdown-blocks/) - Extend Starlight’s Markdown asides syntax with custom block types.
 - [starlight-nutshell](https://github.com/jojokcreator/nutshell-plugin) - make expandable explanations using nutshell.js
 - [starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Publish Obsidian vaults in your Starlight site.
 - [starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Create documentation pages from OpenAPI/Swagger specifications.
 - [starlight-package-managers](https://github.com/HiDeoo/starlight-package-managers) - Quickly display npm related commands for multiple package managers.
 - [starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) - Adds page action buttons to your documentation.
+- [starlight-page-context-action](https://github.com/babblebey/starlight-page-context-action#readme) - A Starlight plugin that adds page action buttons to the right sidebar above the table of contents.
 - [starlight-plausible](https://github.com/jakebellacera/starlight-plausible#readme) - Plausible plugin for Astro Starlight
 - [@hideoo/starlight-plugin](https://github.com/HiDeoo/generator-starlight-plugin) - A generator to quickly scaffold Starlight plugins.
 - [starlight-plugin-icons](https://github.com/Rettend/starlight-plugin-icons) - Add icons to Astro Starlight: sidebar, codeblocks, filetree.
@@ -138,6 +138,7 @@ Discover beautiful themes for your Starlight documentation:
 - [Catppuccin for Starlight](https://starlight.catppuccin.com/) - Soothing pastel theme for Starlight.
 - [hc-starlight](https://github.com/saif-abdelrazek/hc-starlight) - Astro Starlight theme with Hack Club branding — for building beautiful docs and playgrounds
 - [Ion](https://louisescher.github.io/starlight-ion-theme/) - A sleek, modern theme for Starlight.
+- [@nu-appdev/northwestern-starlight-theme](https://starlight-theme.entapp.northwestern.edu) - A Northwestern-branded theme for Astro Starlight
 - [Starlight Black](https://starlight-theme-black.vercel.app/) - Starlight theme inspired by shadcn docs.
 - [Starlight Flexoki](https://delucis.github.io/starlight-theme-flexoki/) - A warm and friendly theme based on the Flexoki color palette.
 - [Starlight Galaxy](https://frostybee.github.io/starlight-theme-galaxy/) - An Astro Starlight theme tailored for publishing documentation and educational content.
@@ -150,6 +151,8 @@ Discover beautiful themes for your Starlight documentation:
 - [Starlight Rosé Pine](https://starlight-theme-rose-pine.trueberryless.org/) - Soho vibes for Starlight.
 - [Starlight Six](https://six-tech.github.io/Six.StarlightTheme/) - Clean and modern Astro.js Starlight theme by Six Technology
 - [Starlight Vintage](https://starlight-theme-vintage.netlify.app/) - Starlight theme heavily inspired by the timeless design of the legacy Astro documentation.
+- [starlight-blog-theme](https://starlight.astro.build) - Build beautiful, high-performance documentation websites with Astro
+- [@bogoware/starlight-theme](https://github.com/Bogoware/starlight-theme#readme) - Bogoware brand identity theme for Astro Starlight documentation sites
 - [@openscript-ch/starlight-theme](https://github.com/openscript-ch/starlight-theme) - Starlight theme of openscript Ltd.
 - [starlight-theme-bejamas](https://github.com/bejamas/ui#readme) - A Starlight theme using bejamas/ui
 - [@multitheftauto/starlight-theme-mtasa](https://github.com/multitheftauto/starlight-theme-mtasa) - Starlight theme for Multi Theft Auto
@@ -163,6 +166,7 @@ Development tools and utilities for Starlight:
 - [@entro314labs/starlight-document-converter](https://github.com/entro314-labs/starlight-document-converter#readme) - A document converter for Astro Starlight that transforms various document formats into Starlight-compatible Markdown with proper frontmatter
 - [starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
 - [@rttnd/starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
+- [@astrojs/starlight-markdoc](https://starlight.astro.build) - Markdoc preset for the Starlight documentation theme for Astro
 - [@hideoo/starlight-plugins-docs-components](https://github.com/HiDeoo/starlight-plugins-docs-components) - Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations.
 - [@ratiu5/starlight-search-cli](https://github.com/RATIU5/webgpu-llm#readme) - Starlight search CLI
 - [starlight-sphinx-loader](https://github.com/rsp2k/starlight-sphinx-loader#readme) - Astro content loader for Sphinx JSON builder output - render RST docs in Starlight
@@ -177,7 +181,6 @@ Real-world documentation sites built with Starlight:
 - [Academeez](https://www.academeez.com/)
 - [Accessible Astro](https://accessible-astro.incluud.dev)
 - [Actionbase](https://actionbase.io/)
-- [Advent of Open Source 2024 | Advent of Open Source](https://adventofopensource.com/)
 - [AI Prompt Snippets](https://ai-prompt-snippets.vercel.app/)
 - [aoi.js - Build Discord Bots with ease](https://aoi.js.org/)
 - [Aptos Docs](https://aptos.dev)
@@ -185,6 +188,7 @@ Real-world documentation sites built with Starlight:
 - [Astro Developer Portal | Dev Portal Docs](https://astro-dev-portal-docs.vercel.app/)
 - [Astro Docs](https://docs.astro.build/)
 - [Astro Docs Docs (AD²) | Astro Docs Docs (AD²)](https://contribute.docs.astro.build/)
+- [Astro Embed](https://astro-embed.netlify.app/)
 - [Astro Integration Kit](https://astro-integration-kit.netlify.app/)
 - [Astro Snipcart](https://astro-snipcart.vercel.app/)
 - [Astro Social Share Documentation | Astro Social Share](https://astro-social-share.mckerlie.com/)
@@ -214,6 +218,7 @@ Real-world documentation sites built with Starlight:
 - [Contribute to the freeCodeCamp Community | freeCodeCamp.org](https://contribute.freecodecamp.org/)
 - [Cookie API](https://docs.cookie-api.com)
 - [Corsfix Docs](https://corsfix.com/docs)
+- [Cottonwood Alumni](https://alumni.cottonwoodhigh.school/)
 - [Crecto](https://crecto.dev/)
 - [Data Package | Data Package Standard](https://datapackage.org/)
 - [Deluge Community](https://delugecommunity.com/)
@@ -240,7 +245,6 @@ Real-world documentation sites built with Starlight:
 - [freeCodeCamp](https://contribute.freecodecamp.org/intro/)
 - [grpcmd](https://grpc.md/docs/)
 - [har.fyi](https://har.fyi/)
-- [httpmock | httpmock Tutorial](https://alexliesenfeld.github.io/httpmock/)
 - [I18n for Astro](https://astro-i18n.netlify.app/)
 - [Ignite Element | Ignite Element v2](http://0xjcf.github.io/ignite-element/)
 - [Introduction | Coolify's Documentation](https://coolify.io/docs/)
@@ -304,7 +308,6 @@ Real-world documentation sites built with Starlight:
 - [vlt docs](https://docs.vlt.sh/)
 - [Web Monetization API](https://webmonetization.org/docs/)
 - [Welcome to Angular Challenges](https://angular-challenges.vercel.app/)
-- [Welcome to Chamaeleon](https://chamaeleon-docs.vercel.app)
 - [Welcome to FashionUnited's Docs](https://developer.fashionunited.com/)
 - [Welcome to Flagship Code | Flagship Code](https://brandingbrand.github.io/flagship/)
 - [Welcome to stan-js | stan-js](https://codemask-labs.github.io/stan-js/)
