@@ -73,6 +73,7 @@
 - [starlight-blog](https://github.com/HiDeoo/starlight-blog) - Add a blog to your documentation site.
 - [starlight-cannoli-plugins](https://github.com/OccasionalCoderByTrade/astro-starlight-plugins#readme) - Starlight plugins for automatic sidebar generation and link validation
 - [starlight-changelogs](https://github.com/HiDeoo/starlight-changelogs) - Display changelogs alongside your project documentation.
+- [@gesslar/starlight-class-browser](https://github.com/gesslar/starlight-class-browser/) - Swagger-style API documentation component set that renders class, method, property, and type documentation with theme-aware syntax highlighting — all in the light DOM.
 - [starlight-codeblock-fullscreen](https://github.com/frostybee/starlight-codeblock-fullscreen) - Add fullscreen toggle functionality to Expressive Code blocks in your documentation.
 - [starlight-contextual-menu](https://github.com/corsfix/starlight-contextual-menu) - Add a contextual menu to your Starlight documentation.
 - [starlight-contributor-list](https://github.com/trueberryless-org/starlight-contributor-list) - Display a list of all contributors to your project.
@@ -106,10 +107,10 @@
 - [starlight-package-managers](https://github.com/HiDeoo/starlight-package-managers) - Quickly display npm related commands for multiple package managers.
 - [starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) - Adds page action buttons to your documentation.
 - [starlight-page-context-action](https://github.com/babblebey/starlight-page-context-action#readme) - A Starlight plugin that adds page action buttons to the right sidebar above the table of contents.
-- [starlight-plausible](https://github.com/jakebellacera/starlight-plausible#readme) - Plausible plugin for Astro Starlight
 - [@hideoo/starlight-plugin](https://github.com/HiDeoo/generator-starlight-plugin) - A generator to quickly scaffold Starlight plugins.
 - [starlight-plugin-icons](https://github.com/Rettend/starlight-plugin-icons) - Add icons to Astro Starlight: sidebar, codeblocks, filetree.
 - [starlight-plugin-show-latest-version](https://github.com/trueberryless-org/starlight-plugin-show-latest-version) - Show the latest released version of your package in your documentation.
+- [starlight-recipes](https://starlight-recipes.trueberryless.org) - Starlight plugin to create a recipe website.
 - [starlight-save-file-component](https://github.com/trueberryless-org/starlight-save-file-component) - Quickly display a link to some download asset on your Starlight site.
 - [starlight-scroll-to-top](https://github.com/frostybee/starlight-scroll-to-top) - Add a scroll-to-top button to your documentation site.
 - [starlight-showcases](https://github.com/HiDeoo/starlight-showcases) - Set of Starlight components to author showcase pages.
@@ -181,6 +182,7 @@ Real-world documentation sites built with Starlight:
 - [Academeez](https://www.academeez.com/)
 - [Accessible Astro](https://accessible-astro.incluud.dev)
 - [Actionbase](https://actionbase.io/)
+- [Advent of Open Source 2024 | Advent of Open Source](https://adventofopensource.com/)
 - [AI Prompt Snippets](https://ai-prompt-snippets.vercel.app/)
 - [aoi.js - Build Discord Bots with ease](https://aoi.js.org/)
 - [Aptos Docs](https://aptos.dev)
@@ -190,6 +192,7 @@ Real-world documentation sites built with Starlight:
 - [Astro Docs Docs (AD²) | Astro Docs Docs (AD²)](https://contribute.docs.astro.build/)
 - [Astro Embed](https://astro-embed.netlify.app/)
 - [Astro Integration Kit](https://astro-integration-kit.netlify.app/)
+- [Astro Snapshot Docs](https://astro-snapshot.johng.io)
 - [Astro Snipcart](https://astro-snipcart.vercel.app/)
 - [Astro Social Share Documentation | Astro Social Share](https://astro-social-share.mckerlie.com/)
 - [Astro Tips](https://astro-tips.dev/)
@@ -223,11 +226,7 @@ Real-world documentation sites built with Starlight:
 - [Data Package | Data Package Standard](https://datapackage.org/)
 - [Deluge Community](https://delugecommunity.com/)
 - [Demo Time - Live demos & slides in VS Code](https://demotime.show/)
-- [DGANG - Dear God, Another Nix/NixOS Guide](https://dgang.bwc9876.dev/)
 - [DipSway](https://api.dipsway.com)
-- [Discord Components | Discord Components](https://discord-components.js.org/)
-- [Discord Hono](https://discord-hono.luis.fun/)
-- [DiscordLuau - Making Applications could feel like a dream](https://discord-luau-docs.deno.dev/)
 - [DMNO](https://dmno.dev)
 - [Documentation DevSecOps — Formations, guides et quiz](https://blog.stephane-robert.info/)
 - [emoji-blast](https://emojiblast.dev)
@@ -245,6 +244,7 @@ Real-world documentation sites built with Starlight:
 - [freeCodeCamp](https://contribute.freecodecamp.org/intro/)
 - [grpcmd](https://grpc.md/docs/)
 - [har.fyi](https://har.fyi/)
+- [httpmock | httpmock Tutorial](https://alexliesenfeld.github.io/httpmock/)
 - [I18n for Astro](https://astro-i18n.netlify.app/)
 - [Ignite Element | Ignite Element v2](http://0xjcf.github.io/ignite-element/)
 - [Introduction | Coolify's Documentation](https://coolify.io/docs/)
@@ -312,7 +312,6 @@ Real-world documentation sites built with Starlight:
 - [Welcome to Flagship Code | Flagship Code](https://brandingbrand.github.io/flagship/)
 - [Welcome to stan-js | stan-js](https://codemask-labs.github.io/stan-js/)
 - [Welcome to the WP Engine Headless Platform](https://developers.wpengine.com/docs/)
-- [What is Distr? | Distr Docs](https://distr.sh/docs/getting-started/what-is-distr/)
 - [xs-dev docs](https://xs-dev.js.org)
 
 ## Videos
