@@ -82,6 +82,7 @@
 - [starlight-cooler-credit](https://starlight-cooler-credit.trueberryless.org/) - Add a nice credit to Starlight or Astro at the bottom of Table of Contents.
 - [starlight-copy-button](https://github.com/dionysuzx/starlight-copy-button) - Copy full docs page Markdown with a polished button in the page title.
 - [starlight-copy-inline-code](https://github.com/rightstack/starlight-copy-inline-code#readme) - A Starlight plugin that adds copy buttons to inline code elements
+- [starlight-dbt](https://github.com/walter9388/starlight-dbt#readme) - A Starlight plugin for dbt docs integration
 - [starlight-digital-garden](https://github.com/stereobooster/astro-digital-garden#readme) - Digital garden for starlight
 - [@astrojs/starlight-docsearch](https://starlight.astro.build) - Algolia DocSearch plugin for the Starlight documentation theme for Astro
 - [starlight-docsearch-typesense](https://github.com/typesense/starlight-docsearch-typesense) - A Typesense-powered alternative to the official Algolia DocSearch plugin.
@@ -162,6 +163,7 @@ Discover beautiful themes for your Starlight documentation:
 - [Starlight Vintage](https://starlight-theme-vintage.netlify.app/) - Starlight theme heavily inspired by the timeless design of the legacy Astro documentation.
 - [@ozzylabs/starlight-theme](https://github.com/ozzy-labs/starlight-theme#readme) - Shared Starlight docs theme
 - [@openscript-ch/starlight-theme](https://github.com/openscript-ch/starlight-theme) - Starlight theme of openscript Ltd.
+- [@abstractdata/starlight-theme](https://github.com/Abstract-Data/abstract-data-doc-theme) - Abstract Data Documentation Theme — the branded docs system Abstract Data uses across client projects. Built on Astro Starlight. HUD and Calm surfaces, light + dark, motion-aware. Ships with the abstract-data-setup skill (Claude Code, Cursor, GitHub Copil
 - [@bogoware/starlight-theme](https://github.com/Bogoware/starlight-theme#readme) - Bogoware brand identity theme for Astro Starlight documentation sites
 - [starlight-theme-bejamas](https://github.com/bejamas/ui#readme) - A Starlight theme using bejamas/ui
 - [@multitheftauto/starlight-theme-mtasa](https://github.com/multitheftauto/starlight-theme-mtasa) - Starlight theme for Multi Theft Auto
@@ -172,6 +174,7 @@ Development tools and utilities for Starlight:
 
 - [astro-starlight-docs-template](https://github.com/javajack/astro-starlight-docs-template#readme) - CLI tool to add Google Analytics, GDPR cookie consent, SEO, and LLM optimization to Astro Starlight documentation sites
 - [hypergen-starlight](https://github.com/subtletools/hypergen-starlight) - Hypergen pack for creating Astro/Starlight documentation sites with TypeDoc integration
+- [mkdocs-material-to-starlight](https://github.com/sitapix/mkdocs-material-to-starlight#readme) - Migrate MkDocs Material sites to Astro Starlight in one command. Maps pages, plugins, sidebar, redirects, and i18n; reports anything left over with file:line diagnostics.
 - [@gesslar/starlight-class-browser](https://starlight-class-browser.gesslar.dev) - A class browser for starlight/astro-based things.
 - [@entro314labs/starlight-document-converter](https://github.com/entro314-labs/starlight-document-converter#readme) - A document converter for Astro Starlight that transforms various document formats into Starlight-compatible Markdown with proper frontmatter
 - [starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
@@ -193,7 +196,6 @@ Real-world documentation sites built with Starlight:
 - [Academeez](https://www.academeez.com/)
 - [Accessible Astro](https://accessible-astro.incluud.dev)
 - [Actionbase](https://actionbase.io/)
-- [Advent of Open Source 2024 | Advent of Open Source](https://adventofopensource.com/)
 - [AI Prompt Snippets](https://ai-prompt-snippets.vercel.app/)
 - [aoi.js - Build Discord Bots with ease](https://aoi.js.org/)
 - [Aptos Docs](https://aptos.dev)
@@ -255,6 +257,7 @@ Real-world documentation sites built with Starlight:
 - [freeCodeCamp](https://contribute.freecodecamp.org/intro/)
 - [grpcmd](https://grpc.md/docs/)
 - [har.fyi](https://har.fyi/)
+- [httpmock | httpmock Tutorial](https://alexliesenfeld.github.io/httpmock/)
 - [I18n for Astro](https://astro-i18n.netlify.app/)
 - [Ignite Element | Ignite Element v2](http://0xjcf.github.io/ignite-element/)
 - [Introduction | Coolify's Documentation](https://coolify.io/docs/)
@@ -311,7 +314,6 @@ Real-world documentation sites built with Starlight:
 - [Style Dictionary](https://styledictionary.com/)
 - [Terrateam Docs](https://terrateam.io/docs)
 - [Text To Table Converter](https://texttotableconverter.com)
-- [The AHA Stack](https://ahastack.dev/)
 - [The Dev Health OS](https://www.devhealthos.com/)
 - [The Jotter | Bag of Tricks](https://events-3bg.pages.dev/jotter)
 - [TrueCharts](https://truecharts.org/)
