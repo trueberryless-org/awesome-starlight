@@ -105,7 +105,6 @@
 - [starlight-llm-actions](https://holdenhewett.github.io/starlight-llm-actions/) - Starlight plugin: Page Actions dropdown with Copy/View/PDF and Open-in-LLM buttons (ChatGPT, Claude, Gemini, Perplexity, T3 Chat, Cursor, Copilot).
 - [starlight-llm-button](https://github.com/dtechvision/starlight-llm-button) - Add a copy to llm button to Starlight or Astro at the top of Table of Contents.
 - [starlight-llms-txt](https://github.com/delucis/starlight-llms-txt) - Add llms.txt to your documentation site based on llmstxt.org.
-- [@astrojs/starlight-markdoc](https://starlight.astro.build) - Markdoc preset for the Starlight documentation theme for Astro
 - [starlight-markdown-blocks](https://delucis.github.io/starlight-markdown-blocks/) - Extend Starlight’s Markdown asides syntax with custom block types.
 - [starlight-nutshell](https://github.com/jojokcreator/nutshell-plugin) - make expandable explanations using nutshell.js
 - [starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Publish Obsidian vaults in your Starlight site.
@@ -117,7 +116,7 @@
 - [@hideoo/starlight-plugin](https://github.com/HiDeoo/generator-starlight-plugin) - A generator to quickly scaffold Starlight plugins.
 - [starlight-plugin-icons](https://github.com/Rettend/starlight-plugin-icons) - Add icons to Astro Starlight: sidebar, codeblocks, filetree.
 - [starlight-plugin-show-latest-version](https://github.com/trueberryless-org/starlight-plugin-show-latest-version) - Show the latest released version of your package in your documentation.
-- [@hideoo/starlight-plugins-docs-components](https://github.com/HiDeoo/starlight-plugins-docs-components) - Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations.
+- [starlight-polyglot](https://github.com/edithatogo/starlight-polyglot) - Starlight plugin to generate documentation from any programming language using its native toolchain.
 - [starlight-recipes](https://github.com/trueberryless-org/starlight-recipes/) - Starlight plugin to create a recipe website.
 - [starlight-recipes](https://starlight-recipes.trueberryless.org) - Starlight plugin to create a recipe website.
 - [starlight-rustdoc](https://sksat.github.io/orts/) - Astro / Starlight integration that generates documentation pages from rustdoc JSON output.
@@ -129,6 +128,7 @@
 - [starlight-sidebar-topics-dropdown](https://github.com/trueberryless-org/starlight-sidebar-topics-dropdown) - Split your docs page into multiple subpages and switch between them with a dropdown menu in the sidebar.
 - [starlight-site-graph](https://github.com/Fevol/starlight-site-graph) - Add an interactive site graph inside your page’s sidebar.
 - [starlight-skills](https://github.com/mew-ton/starlight-skills#readme) - A Starlight plugin that turns your documentation into AI-installable skills
+- [starlight-sphinx-loader](https://github.com/rsp2k/starlight-sphinx-loader#readme) - Astro content loader for Sphinx JSON builder output - render RST docs in Starlight
 - [starlight-tags](https://frostybee.github.io/starlight-tags/) - Add tags to your Starlight documentation pages for content organization and discovery.
 - [starlight-tags](https://github.com/frostybee/starlight-tags) - A Starlight plugin for organizing docs with tags and auto-generated tag pages.
 - [@astrojs/starlight-tailwind](https://starlight.astro.build) - Tailwind CSS plugin for the Starlight documentation theme for Astro
@@ -186,10 +186,10 @@ Development tools and utilities for Starlight:
 - [@entro314labs/starlight-document-converter](https://github.com/entro314-labs/starlight-document-converter#readme) - A document converter for Astro Starlight that transforms various document formats into Starlight-compatible Markdown with proper frontmatter
 - [starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
 - [@hey-api/starlight-llms-txt](https://hey-api.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
-- [@f5xc-salesdemos/starlight-llms-txt](https://f5xc-salesdemos.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
 - [@rttnd/starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
+- [@astrojs/starlight-markdoc](https://starlight.astro.build) - Markdoc preset for the Starlight documentation theme for Astro
+- [@hideoo/starlight-plugins-docs-components](https://github.com/HiDeoo/starlight-plugins-docs-components) - Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations.
 - [@ratiu5/starlight-search-cli](https://github.com/RATIU5/webgpu-llm#readme) - Starlight search CLI
-- [starlight-sphinx-loader](https://github.com/rsp2k/starlight-sphinx-loader#readme) - Astro content loader for Sphinx JSON builder output - render RST docs in Starlight
 - [@lorenzo_lewis/starlight-utils](https://starlight-utils.pages.dev) - Utilities to use with your 🌟 Starlight site.
 
 ## Showcases
@@ -201,7 +201,6 @@ Real-world documentation sites built with Starlight:
 - [Academeez](https://www.academeez.com/)
 - [Accessible Astro](https://accessible-astro.incluud.dev)
 - [Actionbase](https://actionbase.io/)
-- [Advent of Open Source 2024 | Advent of Open Source](https://adventofopensource.com/)
 - [AI Prompt Snippets](https://ai-prompt-snippets.vercel.app/)
 - [aoi.js - Build Discord Bots with ease](https://aoi.js.org/)
 - [Aptos Docs](https://aptos.dev)
@@ -225,7 +224,7 @@ Real-world documentation sites built with Starlight:
 - [Bingo](https://create.bingo)
 - [Biome](https://biomejs.dev/)
 - [Bloc State Management Library](https://bloclibrary.dev)
-- [Bombshell | Bombshell](https://bomb.sh/docs/)
+- [Bombshell](https://bomb.sh/docs/)
 - [Bookshelf](https://bookshelf.docs.joss.dev/)
 - [Capgo](https://capgo.app/docs)
 - [capo.js](https://rviscomi.github.io/capo.js/)
@@ -243,8 +242,6 @@ Real-world documentation sites built with Starlight:
 - [Cottonwood Alumni](https://alumni.cottonwoodhigh.school/)
 - [Crecto](https://crecto.dev/)
 - [Data Package | Data Package Standard](https://datapackage.org/)
-- [Deluge Community](https://delugecommunity.com/)
-- [Demo Time - Live demos & slides in VS Code](https://demotime.show/)
 - [DipSway](https://api.dipsway.com)
 - [DMNO](https://dmno.dev)
 - [Documentation DevSecOps — Formations, guides et quiz](https://blog.stephane-robert.info/)
@@ -265,7 +262,6 @@ Real-world documentation sites built with Starlight:
 - [har.fyi](https://har.fyi/)
 - [I18n for Astro](https://astro-i18n.netlify.app/)
 - [Ignite Element | Ignite Element v2](http://0xjcf.github.io/ignite-element/)
-- [Introduction | Coolify's Documentation](https://coolify.io/docs/)
 - [Isomorphic Validation](https://itihon.github.io/isomorphic-validation/)
 - [Kanri](https://www.kanriapp.com/getting-started/what-is-kanri/)
 - [Kinde](https://docs.kinde.com/)
@@ -324,6 +320,7 @@ Real-world documentation sites built with Starlight:
 - [The Jotter | Bag of Tricks](https://events-3bg.pages.dev/jotter)
 - [TrueCharts](https://truecharts.org/)
 - [TutorialKit](https://tutorialkit.dev/)
+- [Vite Deploy](https://vite-deploy.web-runes.dev/)
 - [vlt docs](https://docs.vlt.sh/)
 - [Web Monetization API](https://webmonetization.org/docs/)
 - [Welcome to Angular Challenges](https://angular-challenges.vercel.app/)
