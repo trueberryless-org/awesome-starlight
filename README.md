@@ -61,7 +61,6 @@
 - [astro-starlight-remark-asides](https://github.com/OliverSpeir/astro-starlight-remark-asides#readme) - Use remark directives to get asides in .md/.mdx styled like starlight's asides
 - [Axiom Studio for Starlight](https://github.com/pixelizing/axiom-studio-for-starlight) - A local-first browser editor for editing Markdown and MDX pages, managing frontmatter, and previewing Starlight docs without touching raw files.
 - [contentisland-cli](https://docs.contentisland.net/templates/starlight/) - Connect and sync your Starlight project to Content Island Headless CMS to edit and manage your documentation.
-- [FeelBack](https://www.feelback.dev/blog/new-astro-starlight-integration/) - Add a user feedback system to your docs pages.
 - [notion-to-astro](https://github.com/val-town/notion-to-astro) - Convert Notion exports to Astro Starlight docs
 - [star-warp](https://inox-tools.fryuni.dev/star-warp) - Warp-drive through search results in your documentation.
 - [@lunariajs/starlight](https://github.com/yanthomasdev/lunaria#readme) - Lunaria integration for the Starlight documentation theme for Astro
@@ -91,7 +90,6 @@
 - [starlight-fsharp-literate](https://github.com/MangelMaxime/starlight-fsharp-literate#readme) - F# Literate (.fsx) file support for Astro Starlight
 - [starlight-fullview-mode](https://github.com/WindMillCode/starlight-fullview-mode) - Collapse sidebars and expand content for a fullscreen experience.
 - [starlight-giscus](https://github.com/dragomano/starlight-giscus) - Add Giscus comments to your docs site.
-- [starlight-git-contributors](https://github.com/sitapix/starlight-git-contributors#readme) - Starlight plugin that adds per-page contributor lists from local git blame. Host-agnostic (GitHub, GitLab, Codeberg, self-hosted, no remote).
 - [starlight-github-alerts](https://github.com/HiDeoo/starlight-github-alerts) - Render GitHub alerts as Starlight asides.
 - [starlight-glide](https://github.com/raiz-toff/starlight-glide) - A premium, modular Table of Contents indicator for Starlight documentation.
 - [starlight-gtm](https://github.com/jbend/starlight-gtm) - Starlight plugin for Google Tag Manager
@@ -100,6 +98,7 @@
 - [starlight-image-zoom](https://github.com/HiDeoo/starlight-image-zoom) - Add zoom capabilities to your documentation images.
 - [starlight-katex](https://github.com/stereobooster/astro-digital-garden#readme) - Starlight plugin for Katex
 - [starlight-kbd](https://github.com/HiDeoo/starlight-kbd) - Document keyboard shortcuts with ease.
+- [starlight-landing-footer](https://github.com/Ying-Luan/starlight-landing-footer) - Starlight plugin that provides a quick and easy way to define a custom footer on landing pages
 - [starlight-latest-version](https://github.com/trueberryless-org/starlight-latest-version) - Show the latest released version of your package in your Starlight documentation.
 - [starlight-links](https://github.com/HiDeoo/starlight-links) - Visual Studio Code extension providing IntelliSense for Starlight Markdown and MDX content links.
 - [starlight-links-validator](https://github.com/HiDeoo/starlight-links-validator) - Check for broken links in your Starlight pages.
@@ -123,7 +122,6 @@
 - [starlight-polyglot](https://github.com/edithatogo/starlight-polyglot) - Starlight plugin to generate documentation from any programming language using its native toolchain.
 - [starlight-recipes](https://github.com/trueberryless-org/starlight-recipes/) - Starlight plugin to create a recipe website.
 - [starlight-recipes](https://starlight-recipes.trueberryless.org) - Starlight plugin to create a recipe website.
-- [starlight-rustdoc](https://sksat.github.io/orts/) - Astro / Starlight integration that generates documentation pages from rustdoc JSON output.
 - [starlight-save-file-component](https://github.com/trueberryless-org/starlight-save-file-component) - Quickly display a link to some download asset on your Starlight site.
 - [starlight-scroll-to-top](https://github.com/frostybee/starlight-scroll-to-top) - Add a scroll-to-top button to your documentation site.
 - [starlight-showcases](https://github.com/HiDeoo/starlight-showcases) - Set of Starlight components to author showcase pages.
@@ -132,7 +130,6 @@
 - [starlight-sidebar-topics-dropdown](https://github.com/trueberryless-org/starlight-sidebar-topics-dropdown) - Split your docs page into multiple subpages and switch between them with a dropdown menu in the sidebar.
 - [starlight-site-graph](https://github.com/Fevol/starlight-site-graph) - Add an interactive site graph inside your page’s sidebar.
 - [starlight-skills](https://github.com/mew-ton/starlight-skills#readme) - A Starlight plugin that turns your documentation into AI-installable skills
-- [starlight-sphinx-loader](https://github.com/rsp2k/starlight-sphinx-loader#readme) - Astro content loader for Sphinx JSON builder output - render RST docs in Starlight
 - [starlight-tags](https://frostybee.github.io/starlight-tags/) - Add tags to your Starlight documentation pages for content organization and discovery.
 - [starlight-tags](https://github.com/frostybee/starlight-tags) - A Starlight plugin for organizing docs with tags and auto-generated tag pages.
 - [@astrojs/starlight-tailwind](https://starlight.astro.build) - Tailwind CSS plugin for the Starlight documentation theme for Astro
@@ -161,6 +158,7 @@ Discover beautiful themes for your Starlight documentation:
 - [Starlight Galaxy](https://frostybee.github.io/starlight-theme-galaxy/) - An Astro Starlight theme tailored for publishing documentation and educational content.
 - [Starlight Gruvbox](https://starlight-theme-gruvbox.otterlord.dev/) - Retro groove theme for Starlight
 - [Starlight Lucode](https://lucas-labs.github.io/lucode-starlight-theme/) - A sharp, polished product-docs theme inspired by shadcn/ui.
+- [Starlight MD3](https://axiaobo7788.github.io/starlight-material-design-theme/) - A Material Design 3 and Material You-inspired theme with dynamic color roles, tonal surfaces, state layers, and motion.
 - [Starlight Next.js](https://starlight-theme-next.trueberryless.org/) - Starlight theme inspired by the Next.js docs.
 - [Starlight Nord](https://kazettique.github.io/starlight-theme-nord/) - An arctic, north-bluish theme for Starlight, inspired by Nord Theme from Arctic Ice Studio
 - [Starlight Nova](https://starlight-theme-nova.pages.dev/) - A modern and beautiful theme for Starlight.
@@ -184,6 +182,7 @@ Discover beautiful themes for your Starlight documentation:
 Development tools and utilities for Starlight:
 
 - [astro-starlight-docs-template](https://github.com/javajack/astro-starlight-docs-template#readme) - CLI tool to add Google Analytics, GDPR cookie consent, SEO, and LLM optimization to Astro Starlight documentation sites
+- [create-starlight-theme-md3](https://github.com/aXiaobo7788/starlight-material-design-theme/tree/main/packages/create-starlight-theme-md3) - Create a new Astro Starlight project using starlight-theme-md3.
 - [@kpritam/grimoire-output-starlight](https://github.com/kpritam/grimoire/tree/main/packages/output/starlight#readme) - Grimoire site generator that emits an Astro Starlight-compatible site from generated docs.
 - [hypergen-starlight](https://github.com/subtletools/hypergen-starlight) - Hypergen pack for creating Astro/Starlight documentation sites with TypeDoc integration
 - [mkdocs-material-to-starlight](https://github.com/sitapix/mkdocs-material-to-starlight#readme) - Migrate MkDocs Material sites to Astro Starlight in one command. Maps pages, plugins, sidebar, redirects, and i18n; reports anything left over with file:line diagnostics.
@@ -191,8 +190,10 @@ Development tools and utilities for Starlight:
 - [@entro314labs/starlight-document-converter](https://github.com/entro314-labs/starlight-document-converter#readme) - A document converter for Astro Starlight that transforms various document formats into Starlight-compatible Markdown with proper frontmatter
 - [starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
 - [@hey-api/starlight-llms-txt](https://hey-api.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
+- [@f5-sales-demo/starlight-llms-txt](https://f5-sales-demo.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
 - [@rttnd/starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/) - Generate llms.txt files to train large language models on your Starlight documentation website
 - [@hideoo/starlight-plugins-docs-components](https://github.com/HiDeoo/starlight-plugins-docs-components) - Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations.
+- [starlight-rustdoc](https://sksat.github.io/orts/) - Astro / Starlight integration that generates documentation pages from rustdoc JSON output.
 - [@ratiu5/starlight-search-cli](https://github.com/RATIU5/webgpu-llm#readme) - Starlight search CLI
 
 ## Showcases
@@ -357,11 +358,13 @@ Video tutorials and screencasts:
 - [Apply custom styles to your Starlight sidebar](https://blog.trueberryless.org/blog/starlight-sidebar-whitespace/) - Using a little bit of CSS to adjust fonts, colours and more of the Starlight sidebar.
 - [Building a documentation site using Astro Starlight](https://maciekpalmowski.dev/blog/building-a-documentation-site-using-astro-starlight/) - Maciek Palmowski describes how Patchstack migrated their documentation to Starlight
 - [Case Study: Slashing Development Costs](https://astro.build/case-studies/wp-engine/) - How WP Engine Lowered Development Costs by Over 50% with Astro’s Starlight.
+- [Collect user feedback with Encatch](https://encatch.com/docs/integrations/documentation-platforms/astro-starlight) - Add in-page reader feedback, suggested edits, and issue reports to your Starlight docs.
 - [Comparing docs site builders: VuePress vs Starlight](https://www.olets.dev/posts/comparing-docs-site-builders-vuepress-vs-starlight/) - How do these two frameworks measure up?
 - [Contributing to Starlight](https://hideoo.dev/notes/contributing-to-starlight) - My personal experience and suggestions for contributing to open-source projects like Starlight.
 - [Customizing Astro Starlight Sidebar for Gated Content with Authentication](https://lirantal.com/blog/customizing-astro-starlight-sidebar-gated-content-auth) - Secure your course material by using Clerk and SSR to dynamically hide or reveal Starlight sidebar chapters based on user login.
 - [Edit the HTML head of Starlight pages](https://hideoo.dev/notes/starlight-custom-html-head) - Learn how to add common head content such as web analytics, fonts, and scripts.
 - [Enable View Transitions](https://events-3bg.pages.dev/jotter/starlight/) - Add support for view transitions, client-side routing, and SPA-like navigation to your Starlight documentation site.
+- [FeelBack](https://www.feelback.dev/blog/new-astro-starlight-integration/) - Add a user feedback system to your docs pages.
 - [Generate Open Graph images for Starlight using the Cloudinary Astro SDK](https://hideoo.dev/notes/starlight-og-images-cloudinary-astro-sdk) - Learn how to use the Cloudinary Astro SDK to generate Open Graph images for your Starlight documentation website.
 - [Hybrid Frontend Architecture with Astro and Starlight](https://frontendatscale.com/blog/hybrid-frontend-architecture/) - Maxi Ferreira and Ben Holmes build a docs site with Starlight, TinaCMS, and an interactive API Playground with authentication.
 - [List recent GitHub releases in Starlight using the Astro Content Layer API](https://hideoo.dev/notes/starlight-list-recent-github-releases) - Learn how to use the Astro Content Layer API to list the recent GitHub releases in a Starlight project.
